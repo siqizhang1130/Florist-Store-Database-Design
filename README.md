@@ -11,6 +11,8 @@ In the modern world nowadays, a structured system with database is an essential 
 * Florist_Store_Database_Design_Report.pdf -- This report includes problem statement, SQL queries, ER Diagram, and business analysis with SQL queries.
 
 ## Tableau Dashboard links
+There are two interactive dashboard. You can take a look at the sales revenue by city, quarter, or product cateogry.
+
 * link1: https://public.tableau.com/profile/siqi.zhang1612#!/vizhome/FloristStoreSalesRevenueAnalysis/Dashboard1?publish=yes
 
 * link2: https://public.tableau.com/profile/siqi.zhang1612#!/vizhome/FloristStoreSalesRevenueAnalysis/Dashboard1?publish=yes
